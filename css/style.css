@@ -1,0 +1,42 @@
+@charset 'utf-8';
+/* CSS Document Pmbaye  */
+
+
+body {
+    background: plum;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.orange {
+    background: orange;
+}
+
+.bleuclair {
+    background: lightblue;
+}
+
+.vertclair {
+    background: lightgreen;
+}
+
+.grisclair {
+    background: lightgrey;
+}
+
+.jauneclair {
+    background: lightyellow;
+}
+
+.blanc {
+    background: white;  
+}
+
+.bg-tomato{
+    background: tomato;
+}
+
+/* pour que le container ait de la place  */
+
+.marge-haute {
+    margin-top: 70px;
+}
